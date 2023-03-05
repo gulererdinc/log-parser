@@ -36,10 +36,10 @@ Solution can be tested using either API or running respective python script manu
 
 #### Using API
 ##### Using Sample file
-![alt text](https://github.com/gulererdinc/log-parser/blob/main/local-api.png?raw=true)
+![Local Sample](https://github.com/gulererdinc/log-parser/blob/main/img/local-api.png?raw=true)
 ##### File Upload (on Kubernetes)
-![alt text](https://github.com/gulererdinc/log-parser/blob/main/local-manual.png?raw=true)
+![K8s Upload](https://github.com/gulererdinc/log-parser/blob/main/img/local-manual.png?raw=true)
 #### Manual Execution
-![alt text](https://github.com/gulererdinc/log-parser/blob/main/local-api.png?raw=true)
+![Manual](https://github.com/gulererdinc/log-parser/blob/main/img/local-api.png?raw=true)
 
 
