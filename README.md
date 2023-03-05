@@ -38,7 +38,7 @@ Solution can be tested using either API or running respective python script manu
 ##### Using Sample file
 ![Local Sample](https://github.com/gulererdinc/log-parser/blob/main/img/local-api.png?raw=true)
 ##### File Upload (on Kubernetes)
-![K8s Upload](https://github.com/gulererdinc/log-parser/blob/main/img/remote-api.png?raw=true)
+![K8s Upload](https://github.com/gulererdinc/log-parser/blob/main/img/kremote-api.png?raw=true)
 #### Manual Execution
 ![Manual](https://github.com/gulererdinc/log-parser/blob/main/img/local-api.png?raw=true)
 
