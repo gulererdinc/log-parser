@@ -1,0 +1,15 @@
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: log-parser-ingress
+spec:
+  rules:
+  - http:
+      paths:
+      - path: /api/v1/log-parser
+        pathType: Prefix
+        backend:
+          service:
+            name: log-parser
+            port:
+              number: 5000
